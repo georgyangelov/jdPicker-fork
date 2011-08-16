@@ -2,5 +2,5 @@ Adds a few modifications and bugfixes to the original script at: http://jdpicker
 
 - Better positioning
 - Doesn't break inline inputs
-- Date format "dd.mm.YYY"
+- Date format "dd.mm.YYYY"
 - No need for images for the selected/hover dates
