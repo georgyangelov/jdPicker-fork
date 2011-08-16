@@ -1,0 +1,6 @@
+Adds a few modifications and bugfixes to the original script at: http://jdpicker.paulds.fr/
+
+- Better positioning
+- Doesn't break inline inputs
+- Date format "dd.mm.YYY"
+- No need for images for the selected/hover dates
